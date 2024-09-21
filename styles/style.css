@@ -1,0 +1,9 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.heading {
+    background-color: antiquewhite;
+    padding: 1rem;
+}
